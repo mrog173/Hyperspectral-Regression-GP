@@ -1,0 +1,15 @@
+cache_table: true
+crossover_prob: 0.8
+attribute: Porosity
+elitism_prob: 0.01
+fitness_function: R^2
+generations: 5
+image_based: false
+initial_max_depth: 7
+initial_min_depth: 3
+maxDepth: 8
+mutation_prob: 0.2
+mut_eph_prob: 0.25
+pop_size: 50
+tournament_size: 4
+save_tree: true

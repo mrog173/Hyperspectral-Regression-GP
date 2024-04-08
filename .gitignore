@@ -1,0 +1,7 @@
+*.png
+*.pdf
+*.csv
+*.pyc
+*.npy
+*.xlsx
+Reports/*

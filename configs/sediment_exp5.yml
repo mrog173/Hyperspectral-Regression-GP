@@ -1,0 +1,15 @@
+cache_table: false
+crossover_prob: 0.79
+attribute: Organic Matter
+elitism_prob: 0.01
+fitness_function: R^2
+generations: 50
+image_based: true
+initial_max_depth: 7
+initial_min_depth: 4
+maxDepth: 9
+mutation_prob: 0.2
+mut_eph_prob: 0.25
+pop_size: 2048
+tournament_size: 4
+save_tree: true
