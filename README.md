@@ -2,7 +2,7 @@
 
 This code is the Python implementation of the Genetic Programming (GP) implementation proposed in the paper "<i>Evolving Multispectral Sensor Configurations Using Genetic Programming for Estuary Health Monitoring</i>". This method evolves feature extractors to select key wavelengths and construct features from hyperspectral imaging, maximising the performance of support vector regression (SVR) models over generations. This method was originally evaluated using a dataset of sediment samples with corresponding organic matter content measurements.
 
-For more details, see \<Publication pending\> and the corresponding dataset: \<Link pending\>.
+For more details, see \<Publication pending\> and the corresponding dataset: [FigShare](http://doi.org/10.17608/k6.auckland.25546396).
 
 ## Installation
 
